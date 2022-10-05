@@ -1,6 +1,6 @@
 <b>
 <div id="header" align="center">
-<img src="https://raw.githubusercontent.com/Nova-Kernels/.github/main/profile/resources/nova.png" width="325"#/>
+<img src="https://github.com/Nova-Kernels/.github/blob/main/profile/resources/nova.png" width="325"#/>
 <h3>➖Nova Kernels➖</h3>
 <h4>Linux Kernel focused on providing the perfect blend between Performance and Battery Backup.</h4> 
 </div>
@@ -15,9 +15,7 @@ We are constantly working on the development to bring out the best kernel for va
 <br>
 <br>
 <h2> Devices:</h2>
-
-<img width="15%" align="right" alt="Github" src="https://raw.githubusercontent.com/Nova-Kernels/.github/main/profile/resources/phone.png" />
-
+<img width="32%" align="right" alt="Github" src="https://raw.githubusercontent.com/Nova-Kernels/.github/blob/main/profile/resources/phone.png" />
 <br>We currently support:
 
 ```
