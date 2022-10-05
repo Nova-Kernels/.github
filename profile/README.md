@@ -15,7 +15,7 @@ We are constantly working on the development to bring out the best kernel for va
 <br>
 <br>
 <h2> Devices:</h2>
-<img width="32%" align="right" alt="Github" src="https://raw.githubusercontent.com/Nova-Kernels/.github/blob/main/profile/resources/phone.png" />
+<img width="32%" align="right" alt="Github" src="https://github.com/Nova-Kernels/.github/blob/main/profile/resources/phone.png" />
 <br>We currently support:
 
 ```
