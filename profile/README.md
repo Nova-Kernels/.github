@@ -23,11 +23,6 @@ Codename: begonia
 Device: Xiaomi Redmi Note 8 Pro
 Released Date: 29th August, 2019
 
-
-Codename: RMX2117
-Device: Realme Narzo 30
-Released Date: 18th May, 2021
-
 Codename: Rosemary
 Device: Redmi Note 10S
 Released Date: 13th May, 2021
