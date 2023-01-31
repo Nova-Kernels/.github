@@ -23,6 +23,7 @@ Codename: begonia
 Device: Xiaomi Redmi Note 8 Pro
 Released Date: 29th August, 2019
 
+```
 
 <br>
 <h2 align = "left"> Humour: </h2>
