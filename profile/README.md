@@ -26,7 +26,3 @@ Released Date: 29th August, 2019
 ```
 
 <br>
-<h2 align = "left"> Humour: </h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite&hideBorder)
-<br>
