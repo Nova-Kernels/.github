@@ -7,7 +7,7 @@
 </b>
 <br>
 
-<b>Support Group [Telegram](https://t.me/NoVA_Kernels) </b>
+<b>Support Group [Telegram](https://telegram.me/NoVA_Kernels) </b>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Nova-Kernels.kernel_xiaomi_mt6785)
 
